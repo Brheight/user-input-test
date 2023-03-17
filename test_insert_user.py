@@ -1,5 +1,7 @@
 import unittest
+#import the api funtion below
 from add_user import insert_user
+# after import the test would be initiated
 import datetime
 
 
